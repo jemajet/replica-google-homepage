@@ -54,8 +54,8 @@ ul ul li.user {
 }
 
 footer {
-	top: 700px;
-	position: fixed;
+	bottom: 0;
+	position: absolute;
 	width: 100%;
 	background-color: #e1e0e0;
 }
